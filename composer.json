@@ -1,0 +1,11 @@
+{
+  "name": "poundandgrain/wpmandrill",
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/poundandgrain/wpmandrill",
+  "license": "private",
+  "description": "fork of wp-plugins/wpmandrill",
+  "keywords": ["plugin","wordpress","rest api"],
+  "require": {
+    "composer/installers": "~1.33.1"
+  }
+}
